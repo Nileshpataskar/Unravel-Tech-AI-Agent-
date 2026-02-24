@@ -21,8 +21,6 @@ UNRAVEL_URLS = [
     "https://unravel.tech",
     "https://unravel.tech/blog",
     "https://unravel.tech/talks",
-    "https://vedang.me",          # Vedang Manerikar's personal site (founder)
-    "https://prajwalit.com",      # Prajwalit Bhopale's personal site (founder)
 ]
 
 # ---------------------------------------------------------------------------

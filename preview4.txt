@@ -1,0 +1,15 @@
+All sheets: ['Sheet1', 'Sheet3', 'Sheet2', 'Sheet9', 'Sheet10', 'Sheet4', 'Aswin- List', 'Sheet8', 'Sheet11', 'Sheet12']
+
+Sheet name: Sheet4
+Columns: ['Britannia', 'Ritesh Rana', 9741409933, 'RITESHR@BRITINDIA.COM', 'Ranjit Jose', 9900510052, 'ranjitjose@britindia.com', 'Sarbjit Kaur', 9731568252, 'skaur@britindia.com', None, None, None, None, None, None]
+Total rows: 19
+
+['Capillary Technologies', None, None, None, 'Keerthi Kariyappa', None, None, None, None, None, None, None, None, None, None, None]
+['MEC Global', 'Bhoomi Vyas', 9535038913, None, None, None, None, None, None, None, None, None, None, None, None, None]
+['Thermo Fisher', 'Jeyandran Chandrasekaran', 9845085833, 'jeyandran.c@thermofisher.com', None, None, None, None, None, None, None, None, None, None, None, None]
+['Urban Ladder', 'Geetika Mehta', 8553001627, 'geetika@urbanladder.com', 'Kaustabh Chakraborthy (IIM L)', 9742543232, 'kaustabh@urbanladder.com', 'Pooja Tripathi', 8861517696, 'pooja@urbanladder.com', 'Suruchi Jajoo', 9739388168, 'suruchi@urbanladder.com', None, None, None]
+['Vizury', 'Pradeep', 9900042496, 'pradeep.pg@vizury.com', None, None, None, None, None, None, None, None, None, None, None, None]
+['Flipkart', 'Vinod Mankala', 9740966894, 'Vinod.m@flipkart.com ', 'Kuldeep Mamgain', 9739286868, 'kuldeep@flipkart.com', 'Prasad Menon', 9620206258, 'prasad.menon@flipkart.com', 'Amit Vasishta', 9886022541, None, None, None, None]
+['Groupon', 'Ankur Wariko', None, None, 'Ayush Sinha', None, None, None, None, None, None, None, None, None, None, None]
+['Mantri', None, None, None, None, None, None, None, None, None, None, None, None, None, None, None]
+['mathworks', 'jordan', None, None, None, None, None, None, None, None, None, None, None, None, None, None]

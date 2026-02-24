@@ -1,0 +1,13 @@
+Index: 4
+Cols: ['Sl.No', 'Client Name', None, 'Name', 'Designartion', 'Phone', 'Email', 'Name', 'Designartion', 'Phone', 'Email', 'Name', 'Phone', 'Email', 'Name', 'Phone', 'Email', 'Name', 'Phone', 'Email', 'Name', 'Phone', 'Email', None, None, None, None]
+Rows: 85
+
+[1, 'Akamai', None, 'Shiva Sundar', 'TA Head', 9739702727, 'shsundar@akamai.com', 'Chitra Subramanian', 'Recruitment Manager', None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None]
+[2, 'ALL State', None, 'B Sudhir Kumar', 'Head TA', 9945273155, 'sbomq@allstate.com', 'Chethan BV', 'Head TA', None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None]
+[3, 'Allianz Cornhill (ACIS)', None, 'Vinod Kutty', 'TA Head', 9645011129, 'vinod.kutty@allianzcornhill.co.in', 'Dipanwita', 'TA Head', 9946430015, 'dipanwita.chakraborty@allianzcornhill.co.in', None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None]
+[4, 'CA Technologies', None, 'Sunil Sankar', 'Head- TA', None, 'Sunil.Sankar@ca.com', 'Sakaar Anand', 'Head HR', 9949579540, 'Sakaar.Anand@ca.com', 'Sharmistha Deb', '406 687 7332', 'Sharmistha.Deb@ca.com', 'Sharmistha Deb', None, 'Sharmistha.Deb@ca.com', ' ', None, 'Archana.Sali@ca.com', None, None, None, None, None, None, None]
+[5, 'Dover', None, 'Amrut Aiyamma', 'HR Director', '41123421 - 26', None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None]
+[6, 'FICO', None, 'Akash Bothera', None, '93425-04692', 'akashbothera@fico.com', None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None]
+[7, 'ims Health', None, 'Preethiramodass', 'TA Manager', 33575328, 'pramdoss@in.imshealth.com', 'Anupama Rammohan', None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None]
+[8, 'Metricstream', None, 'Priyanka', 'Head TA', 9886895897, 'priyanka@metricstream.com', 'Nihar', 'Marcom', 9945048004, 'nihar.gundumalla@metricstream.com', None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None]
+[9, 'Motorola Mobility/Lenovo', None, 'Smitashree Menon', 'HR Director', 8042212000, None, 'Molly Das', 'Lead Recruitment', 9986724241, 'molly@motorola.com', 'Pathy RVC', 9972001131, 'pathy@motorola.com', None, 'dimension data', None, None, None, None, None, None, None, None, None, None, None]

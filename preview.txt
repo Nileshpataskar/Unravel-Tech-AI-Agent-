@@ -1,0 +1,13 @@
+Sheets: ['Sheet1', 'Sheet3', 'Sheet2', 'Sheet9', 'Sheet10', 'Sheet4', 'Aswin- List', 'Sheet8', 'Sheet11', 'Sheet12']
+Columns: ['Client Name', 'Contact Person', 'Designartion', 'Phone', 'Email', None]
+Total rows: 1000
+
+['Airbus', 'Shishir Kumar', 'Manager-HR', 9900177270, '=HYPERLINK("mailto:shishir.kumar@airbus.com","shishir.kumar@airbus.com")', None]
+['Akamai', 'Shiva Sundar', 'TA Head', 9739702727, '=HYPERLINK("mailto:shsundar@akamai.com","shsundar@akamai.com")', None]
+['Alcatel Lucent', 'Hitler Carcarvalho', 'TA Manager', 9980504887, '=HYPERLINK("mailto:hitler.carvalho@alcatel-lucent.com","hitler.carvalho@alcatel-lucent.com")', None]
+['Altisource', 'Raghavendra Bhat', 'Manager - Recruitment', '080-6616 2007/9900176207', '=HYPERLINK("mailto:raghavendra.bhat@altisource.com","raghavendra.bhat@altisource.com")', None]
+['Altran', 'dipti Nayak', 'Assistant HR', 9901291719, '=HYPERLINK("mailto:dipti.nayak@altran.com","dipti.nayak@altran.com")', None]
+['AON Hewitt', 'Debobrata Hembram', 'Marketing Lead - APAC', 9717244855, '=HYPERLINK("mailto:debobrata.hembram@aon.com","debobrata.hembram@aon.com")', None]
+['Applied Materials', 'Naqeeb Syed', 'TA Head', 9632005724, '=HYPERLINK("mailto:naqeeb_syed@amat.com","naqeeb_syed@amat.com")', None]
+['ARM', 'Varsha Singh', 'HR Manager', 9945483368, '=HYPERLINK("mailto:varsha.singh@arm.com","varsha.singh@arm.com")', None]
+['Atkins', 'Purushotham', 'Recruitment Head', 8105766553, '=HYPERLINK("mailto:purushotham.k@atkinsglobal.com","purushotham.k@atkinsglobal.com")', None]
