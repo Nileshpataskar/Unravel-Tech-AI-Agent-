@@ -16,18 +16,12 @@ GROQ_BASE_URL = "https://api.groq.com/openai/v1"
 MODEL = "llama-3.3-70b-versatile"
 TEMPERATURE = 0
 
-# URLs to scrape for founder/team info
 UNRAVEL_URLS = [
     "https://unravel.tech",
     "https://unravel.tech/blog",
     "https://unravel.tech/talks",
-    "https://vedang.me",          # Vedang Manerikar's personal site (founder)
-    "https://prajwalit.com",      # Prajwalit Bhopale's personal site (founder)
 ]
 
-# ---------------------------------------------------------------------------
-# Web Scraping — fetch founder profiles from unravel.tech
-# ---------------------------------------------------------------------------
 
 def scrape_unravel_profiles() -> str:
     """
@@ -143,11 +137,6 @@ def extract_founder_info(profiles: str) -> dict[str, Any]:
         sys.exit(1)
 
     return result
-
-
-# ---------------------------------------------------------------------------
-# CLI entry-point
-# ---------------------------------------------------------------------------
 
 def main() -> None:
     """Run the agent: scrape unravel.tech → extract founder info via LLM."""
